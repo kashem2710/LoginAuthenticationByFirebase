@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "841864917859",
+    "firebase_url": "https://loginauthentication-8866d.firebaseio.com",
+    "project_id": "loginauthentication-8866d",
+    "storage_bucket": "loginauthentication-8866d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841864917859:android:a21f036c7334f3db575956",
+        "android_client_info": {
+          "package_name": "com.example.loginauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841864917859-ot1rp0dchng6n18nrs9jjd2mfvt9ep1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC33UE09OYo_-TdWW8NOiZTtqlLVpm-XdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841864917859-ot1rp0dchng6n18nrs9jjd2mfvt9ep1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
